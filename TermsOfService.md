@@ -18,5 +18,5 @@ Finally, content accessible through our APIs may be subject to intellectual prop
 
 **Third Party/ Credits**
  
-As of now the Content is being pulled from  OMDb API,The Open Movie Database (http://omdbapi.com/), whose All content licensed under CC-BY 4.0.
+As of now the Content is being pulled from  OMDb API,The Open Movie Database (http://omdbapi.com/), whose All content licensed under CC-BY 4.0.(http://creativecommons.org/licenses/by/4.0/)
 Thank you to OMDb API team
